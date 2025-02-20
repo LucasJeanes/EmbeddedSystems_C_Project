@@ -1,6 +1,4 @@
 
-![image](https://github.com/user-attachments/assets/59835a59-369a-4a33-bdc7-1f53866fbc93)
-
 # Embedded Systems C Project with FreeRTOS
 
 This project demonstrates various technologies and techniques in embedded systems C programming using FreeRTOS. It's designed to run on a microcontroller platform and interfaces with sensors, MQTT communication, and real-time operating system concepts.
@@ -12,6 +10,7 @@ This project demonstrates various technologies and techniques in embedded system
 4. [Key Components](#key-components)
 5. [Setup and Configuration](#setup-and-configuration)
 6. [Usage](#usage)
+7. [Architecture Diagram](#architecture-diagram)
 
 ## Features
 
@@ -75,6 +74,5 @@ Once the application is running on the microcontroller:
 3. The sensors will begin collecting data, which will be published to the cloud.
 4. You can control sensors via MQTT messages sent to subscribed topics.
 
----
-
-Feel free to modify any sections as needed or add additional information relevant to your project!
+## Architecture Diagram
+![image](https://github.com/user-attachments/assets/59835a59-369a-4a33-bdc7-1f53866fbc93)

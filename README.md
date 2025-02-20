@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/59835a59-369a-4a33-bdc7-1f53866fbc93)
+
 # Embedded Systems C Project with FreeRTOS
 
 This project demonstrates various technologies and techniques in embedded systems C programming using FreeRTOS. It's designed to run on a microcontroller platform and interfaces with sensors, MQTT communication, and real-time operating system concepts.

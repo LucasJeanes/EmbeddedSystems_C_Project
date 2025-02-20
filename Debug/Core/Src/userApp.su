@@ -1,0 +1,12 @@
+../Core/Src/userApp.c:95:6:HAL_GPIO_EXTI_Callback	24	static,ignoring_inline_asm
+../Core/Src/userApp.c:121:6:TIM6_Handler	32	static,ignoring_inline_asm
+../Core/Src/userApp.c:133:6:AutoPublishTimerCallback	24	static,ignoring_inline_asm
+../Core/Src/userApp.c:144:6:HAL_RTCEx_WakeUpTimerEventCallback	24	static,ignoring_inline_asm
+../Core/Src/userApp.c:157:6:subscribeMessageHandler	24	static,ignoring_inline_asm
+../Core/Src/userApp.c:218:13:sensorControllerTask	32	static
+../Core/Src/userApp.c:251:13:sensorTask	32	static
+../Core/Src/userApp.c:297:13:publishTask	216	static
+../Core/Src/userApp.c:350:13:RTC_Task	112	static
+../Core/Src/userApp.c:380:13:initTask	32	static
+../Core/Src/userApp.c:505:6:userApp	16	static
+../Core/Src/userApp.c:526:6:brokerConnect	96	static
